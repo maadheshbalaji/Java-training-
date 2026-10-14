@@ -1,0 +1,17 @@
+public class Student{
+    public static void main(String[]args)
+        {
+    int mark=80;
+    int a=90;
+            {
+                if(mark >=40 && a >= 75)
+                {
+                    System.out.println("he passed the exam");
+                }
+                else
+                {
+                    System.out.println("he failed in exam");
+                }
+            }
+        }
+}
